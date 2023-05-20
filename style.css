@@ -1,0 +1,128 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+
+body {
+  font-family: "poppins",sans-serif;
+  font-size: 14px;
+  font-weight: normal;
+  line-height: 20px;
+  letter-spacing: 0.2px;
+    margin: 0;
+    padding: 0;
+    background-color: #181818;
+}
+
+  header {
+    background-color:#ffffff ;
+    
+    color:#ffffff;
+    padding: 100px;
+    text-align: center;
+    background-image: url("https://sp-ao.shortpixel.ai/client/to_auto,q_glossy,ret_img,w_1200/https://boardroom.tv/wp-content/uploads/2022/08/JCole-NBA-2K23-Cover.png"); /* Replace "header-bg.jpg" with the path to your desired background image */
+  background-size: cover;
+  background-position: center;
+  color: #ffffff;
+  padding: 100px;
+  text-align: center;
+   
+  }
+  h2 {
+    text-align: center;
+    color: #fff;
+  }
+  
+  nav {
+    background-color: #404040;
+    padding:10px;
+    text-indent: 40px;
+    
+  }
+  
+  nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav ul li {
+    display: inline;
+    margin-right: 10px;
+  }
+  
+  nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    padding: 10px;
+  }
+  
+  section {
+    padding: 20px;
+  }
+  
+  footer {
+    background-color: #212529;
+    color: #57c1c6;
+    padding: 10px;
+    text-align: center;
+    background-position: bottom;
+    margin-top: 150px;
+    height: 200px;
+  
+    
+  }
+
+
+  #game-list{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    
+
+  }
+
+  #games {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-bottom: 5px; /* Adjust this value to decrease the gap */
+    
+  }
+  
+  
+ 
+  
+  .game-item {
+    width: 200px;
+    padding: 20px;
+    margin: 10px;
+    color: #fff;
+    
+    
+   
+    
+    
+    
+  }
+  
+  .game-item img {
+    display: flex;
+    flex-wrap:wrap ;   
+    height: 250px;
+    width: 210px;
+    border-radius: 20px;
+    
+    
+    
+    
+   
+  }
+  
+  .game-item h3 {
+    margin-top: 10px;
+    font-size: 16px;
+    margin-bottom: 20px;
+    color: #fff;
+  }
+  
+
+
