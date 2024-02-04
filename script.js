@@ -1,5 +1,5 @@
 const games = [
-    { title: "Fifa 24", image:"https://www.fifplay.com/img/public/fifa-23-cover-star-kylian-mbappe.jpg", price: 4499 },
+    { title: "Fifa 24", image:"https://www.giantbomb.com/a/uploads/scale_medium/33/338034/3485965-3025889629-F07tBOiWAAA6mu6.jpg", price: 4499 },
     { title: "Gta V", image: "https://hips.hearstapps.com/digitalspyuk.cdnds.net/13/14/gaming-gta5-cover.jpeg?resize=768:*", price: 1299 },
     { title: "NBA 2k24", image: "https://assets.2k.com/1a6ngf98576c/4oCqsi6G8MfDjHKhjhBtrP/d43164117e00d78c0cf85dfafeb3b906/NBA23-WEBSITE-ATHLETE_HUB-MODULE1-STD_THUMBNAIL-828x828.jpg", price: 4099 },
     { title: "Call of duty MW 2", image:"https://d1lss44hh2trtw.cloudfront.net/resize?type=webp&url=https%3A%2F%2Fshacknews-www.s3.amazonaws.com%2Fassets%2Feditorial%2F2022%2F05%2Fsimon-ghost-riley-mw2.jpg&width=986&sign=EOOij3vH2ezcINVx1rnxoge3dxsMhtJgam3yHFvDN9k",price:5899 },
