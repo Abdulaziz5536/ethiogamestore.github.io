@@ -1,5 +1,5 @@
 const games = [
-    { title: "Pre-order Fifa 25", image:"https://preview.redd.it/fc-25-standard-cover-v0-19e17zsww2dd1.jpeg?width=1080&crop=smart&auto=webp&s=7a1c19199ddc16bba5817adf85cddfc9aad6e613", price: 15,999 },
+    { title: "Pre-order Fifa 25", image:"https://preview.redd.it/fc-25-standard-cover-v0-19e17zsww2dd1.jpeg?width=1080&crop=smart&auto=webp&s=7a1c19199ddc16bba5817adf85cddfc9aad6e613", price: 15999 },
     { title: "Fifa 24", image: "https://www.giantbomb.com/a/uploads/scale_medium/33/338034/3485965-3025889629-F07tBOiWAAA6mu6.jpg", price: 4499 },
     { title: "Gta V", image: "https://hips.hearstapps.com/digitalspyuk.cdnds.net/13/14/gaming-gta5-cover.jpeg?resize=768:*", price: 1299},
     { title: "NBA 2k24", image:"https://cdn.cdkeys.com/700x700/media/catalog/product/k/o/kobe_bryant_2k24_1.png",price: 4099  },
